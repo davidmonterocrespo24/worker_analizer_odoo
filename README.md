@@ -1,0 +1,2 @@
+# worker_analizer_odoo
+worker_analizer
